@@ -1,0 +1,9 @@
+{
+    "name": "practice-chat-socket",
+    "version": "0.0.1",
+    "description": "app para implementar en el mvp",
+    "dependencies": {
+        "express": "^4.17.2",
+        "socket.io": "^4.4.0"
+    }
+}
